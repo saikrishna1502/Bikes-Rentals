@@ -1,3 +1,4 @@
 this is the first line of bike rentals
 this is to check log 
 this is to check fetch command
+this is to verify fetch command
